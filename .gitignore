@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+demo.py
+Ascii_art.zip
 # Distribution / packaging
 .Python
 build/
